@@ -1,0 +1,2 @@
+# Magic Eraser Chrome Extension
+ 
